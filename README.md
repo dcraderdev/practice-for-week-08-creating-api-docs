@@ -44,6 +44,9 @@ For example, to edit a specific post, the API endpoint could be
 `PATCH /posts/:postId`
 
 - Get all the posts
+
+
+
 - Create a new post
 - Edit a post
 - Create a new user
@@ -55,5 +58,12 @@ For example, to edit a specific post, the API endpoint could be
 - Remove a like for a post
 - Get all the posts of a user
 - Submit a search on posts
+
+
+
+
+
+
+
 
 [starter]: https://github.com/appacademy/practice-for-week-08-creating-api-docs
